@@ -9,7 +9,6 @@
 - Basics
 - What you need
 - Some resources
-- Coffee beans are actually seeds not beans
 - Chemistry experiment
 - Remember: enjoy it how you like it
 - Some "rules" can be broken
@@ -189,8 +188,8 @@
 
 ## Extraction
 
-- Overextraction - Extracting the bad bits of the bean
-- Underextraction - Not extracting all of the good stuff
+- Overextraction - Extracting the bad bits of the bean (Bitter)
+- Underextraction - Not extracting all of the good stuff (Sour)
 - Under and over extracted (crap grinder) - Usually get this with the Hario Skerton Grinder
 - Hence why a good grinder is necessary
 
@@ -380,7 +379,8 @@ Notes:
 - [Some coffee basics](https://www.iflscience.com/editors-blog/youve-been-making-coffee-wrong-your-entire-life/all/)
 - [French press tutorial](https://www.youtube.com/watch?v=st571DYYTR8)
 - [V60 Tutorial](https://www.youtube.com/watch?v=c0Qe_ASxfNM&t=573s)
-
+- [Extraction: Sour vs Bitter](https://angelscup.com/blog/taste/coffee-extraction-sour-vs-bitter/)
+- [r/Coffee](https://www.reddit.com/r/coffee)
 
 
 ### Shops
