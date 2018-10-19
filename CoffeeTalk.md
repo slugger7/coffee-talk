@@ -369,6 +369,14 @@ Notes:
 
 
 
+## Questions
+
+- https://github.com/slugger7/coffee-talk
+- The presentation
+- Markdown file
+
+
+
 ## References
 
 ### Interesting info & reads
@@ -381,6 +389,7 @@ Notes:
 - [V60 Tutorial](https://www.youtube.com/watch?v=c0Qe_ASxfNM&t=573s)
 - [Extraction: Sour vs Bitter](https://angelscup.com/blog/taste/coffee-extraction-sour-vs-bitter/)
 - [r/Coffee](https://www.reddit.com/r/coffee)
+
 
 
 ### Shops
